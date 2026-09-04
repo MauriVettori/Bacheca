@@ -10,4 +10,6 @@ Marcatore di verifica: `NYMERA_GITHUB_ROUTE_20260904_001`
 
 Canary di indicizzazione: `vraxilunorqethambrixa`
 
+Canary Nýmera: `qelvorynthaskemdruphalixzeynora`
+
 Il collegamento è pubblico. La sua apertura non attesta identità, lettura o autorità.
